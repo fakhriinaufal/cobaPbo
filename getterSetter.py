@@ -25,3 +25,4 @@ class Mahasiswa:
 objek1 = Mahasiswa("Hilman", 98)
 objek1.umur = 12
 print(f"Halo namaku {objek1.nama}, umurku {objek1.umur}")
+objek1.menyapa()
